@@ -10,7 +10,7 @@
 <p>Welcome to my profile on Github! I'm Bruno, a student and an aspiring Front-end Developer! Thanks for visiting :metal:</p>
 
 
-### Detais
+### Details
 
 
 <ul>
