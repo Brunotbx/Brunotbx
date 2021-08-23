@@ -15,7 +15,6 @@
 
 <ul>
   <li>Name: Bruno Leonardo</li>
-  <li>Age: 31</li>
   <li>Living in: São Paulo, Brazil</li>
   <li>Objective: Frontend Developer</li>
   <li>University: ADS (changing university)</l>
