@@ -17,7 +17,7 @@
   <li>Name: Bruno Leonardo</li>
   <li>Living in: São Paulo, Brazil</li>
   <li>Objective: Frontend Developer</li>
-  <li>University: ADS (changing university)</l>
+  <li>University: ADS Faculdade Descomplica</l>
 </ul>
 
 <br>
