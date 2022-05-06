@@ -6,8 +6,8 @@
 
 <br>
 
-<p>Seja bem vindo(a) ao meu perfil no github! Sou o Bruno, um estudante e aspirante a desenvolvedor Front-end! :metal:</p>
-<p>Welcome to my profile on Github! I'm Bruno, a student and an aspiring Front-end Developer! Thanks for visiting :metal:</p>
+<p>Seja bem vindo(a) ao meu perfil no github! Sou o Bruno, um estudante e desenvolvedor Front-end! :metal:</p>
+<p>Welcome to my profile on Github! I'm Bruno, a student and Front-end Developer! Thanks for visiting :metal:</p>
 
 
 ### Details
