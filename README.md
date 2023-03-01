@@ -36,6 +36,7 @@
   <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" title="Figma" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=git" title="Git" />
 </div>
 
 ##
