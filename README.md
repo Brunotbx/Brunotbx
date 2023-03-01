@@ -12,10 +12,8 @@
 
 ### Details
 
-
 <ul>
   <li>Name: Bruno Leonardo</li>
-  <li>Living in: São Paulo, Brazil</li>
   <li>Objective: Frontend Developer</li>
 </ul>
 
